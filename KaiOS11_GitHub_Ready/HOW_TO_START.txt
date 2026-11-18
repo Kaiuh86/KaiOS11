@@ -1,0 +1,12 @@
+KAIOS 11
+=========
+1. Extract this ZIP.
+2. Double-click START_KAIOS_HERE.bat.
+3. Sign in or create an account.
+4. Press F11 for fullscreen.
+
+If KaiOS does not start:
+1. Open the KaiOS11 folder in VS Code or a terminal.
+2. Run:
+       python -m pip install -r requirements.txt
+       python kaios.py
