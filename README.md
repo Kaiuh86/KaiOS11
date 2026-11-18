@@ -17,7 +17,7 @@ Welcome to KaiOS 11! This project brings a desktop-style experience to life with
 - **More apps:** Calculator, Calendar, Notepad, and productivity tools.
 - **Fullscreen mode:** Press F11 to switch fullscreen on or off.
 
-## 📥 Installation
+## Installation
 
 ### Requirements
 
@@ -40,7 +40,7 @@ Welcome to KaiOS 11! This project brings a desktop-style experience to life with
 
 You can also try the included Windows batch launcher.
 
-## 🎮 Games
+##  Games
 
 | Game | Description |
 |---|---|
