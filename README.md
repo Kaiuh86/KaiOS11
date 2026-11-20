@@ -27,9 +27,9 @@ Welcome to KaiOS 11! This project brings a desktop-style experience to life with
 
 ### How to start
 
-1. Download the repository using **Code → Download ZIP**.
+1. Download the repository using **Code --> Download ZIP**.
 2. Extract the downloaded ZIP.
-3. Open `KaiOS11_GitHub_Ready/KaiOS11`.
+3. Open `Open KaiOS 11/KaiOS11.`.
 4. Install the dependencies:
 
    `python -m pip install -r requirements.txt`
